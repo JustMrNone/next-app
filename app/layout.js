@@ -1,3 +1,6 @@
+//main entry point of the application 
+//everything here will be shared troughout of our application 
+
 import localFont from "next/font/local";
 import "./globals.css";
 

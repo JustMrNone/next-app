@@ -1,3 +1,5 @@
+//to turn this file into the client side component 
+//"use client"
 import Image from "next/image";
 
 export default function Home() {
